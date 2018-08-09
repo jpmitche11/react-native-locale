@@ -172,7 +172,7 @@ Note: iOS will allow `timestamp` to be either a timestamp, or an ISO-8601 string
 ```js
 l.dateFormat(DateObject, DateFormatStyle, TimeFormatStyle)
 l.dateFormat(Date, enum('full', 'long', 'medium', 'short', 'none'), enum('full', 'long', 'medium', 'short', 'none'))
-``
+```
 
 Danish:
 ```js
